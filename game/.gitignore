@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# But these files
+!.gitignore
+!LICENCE.md
+!README.md
+!*.rpy
+
+# And these directories
+!images
+!images/*
+!fonts
+!fonts/*

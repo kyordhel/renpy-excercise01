@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# But these files
+!.gitignore
+!*.ttf
+!*.otf
+
+# even if they are in subdirectories
+!*/

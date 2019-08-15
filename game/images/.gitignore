@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But these files
+!.gitignore
+!*.webp
+
+# even if they are in subdirectories
+!*/

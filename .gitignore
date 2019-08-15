@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# But these files
+!.gitignore
+!LICENCE.txt
+!README.html
+!README.md
+
+# And these directories
+!game
+!game/*
